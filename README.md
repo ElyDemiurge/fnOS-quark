@@ -110,3 +110,12 @@ fnOS 应用详情显示 `v0.7`，应用内显示完整版本 `v0.7.6`。
 本软件为专有软件，仅允许个人使用作者发布且未经修改的 FPK。未经书面许可，不得修改、再发布或转售，不得用于收费、捆绑销售或商业服务。完整条款见 [LICENSE](LICENSE)。
 
 作者：Cyberangel、Codex ChatGPT 6.1 Sol
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=elydemiurge%2Ffnos-quark&amp;type=date&amp;releases=&amp;legend=bottom-right">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=elydemiurge%2Ffnos-quark&amp;type=date&amp;legend=bottom-right&amp;theme=dark" />
+    <img alt="Star History" src="https://api.star-history.com/chart?repos=elydemiurge%2Ffnos-quark&amp;type=date&amp;legend=bottom-right" />
+  </picture>
+</a>
