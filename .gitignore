@@ -2,3 +2,10 @@
 !/.gitignore
 !/README.md
 !/LICENSE
+!/assets/
+!/assets/screenshots/
+!/assets/screenshots/cloud-files.png
+!/assets/screenshots/logs-diagnostics.png
+!/assets/screenshots/download-settings.png
+!/assets/screenshots/speed-details.png
+!/assets/screenshots/download-tasks.png
