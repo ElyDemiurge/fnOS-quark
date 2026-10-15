@@ -7,7 +7,7 @@
 
 ## 下载
 
-v0.7.10 发布准备中，尚未发布。安装包以本仓库的 [GitHub Releases](../../releases/latest) 实际发布为准，下载时选择对应架构：
+v0.7.10 安装包以本仓库的 [GitHub Releases](../../releases/latest) 实际发布为准，下载时选择对应架构：
 
 | 架构 | 安装包 |
 | --- | --- |
