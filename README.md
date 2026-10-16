@@ -7,17 +7,17 @@
 
 ## 下载
 
-v0.7.10 安装包以本仓库的 [GitHub Releases](../../releases/latest) 实际发布为准，下载时选择对应架构：
+v0.7.11 安装包以本仓库的 [GitHub Releases](../../releases/latest) 实际发布为准，下载时选择对应架构：
 
 | 架构 | 安装包 |
 | --- | --- |
-| x86_64 | `fnos-quark-0.7.10-x86_64.fpk` |
-| ARM64 | `fnos-quark-0.7.10-arm64.fpk` |
+| x86_64 | `fnos-quark-0.7.11-x86_64.fpk` |
+| ARM64 | `fnos-quark-0.7.11-arm64.fpk` |
 
 对照 Release 的 `SHA256SUMS` 校验文件，不一致时重新下载：
 
 ```bash
-sha256sum fnos-quark-0.7.10-x86_64.fpk
+sha256sum fnos-quark-0.7.11-x86_64.fpk
 ```
 
 应用中心显示安装时记录的版本，实际版本请在应用内查看。
@@ -134,7 +134,7 @@ sha256sum fnos-quark-0.7.10-x86_64.fpk
 
 本软件为专有软件，仅允许个人使用作者发布且未经修改的 FPK。未经书面许可，不得修改、再发布或转售，不得用于收费、捆绑销售或商业服务。完整条款见 [LICENSE](LICENSE)。
 
-作者：Cyberangel、Codex ChatGPT 6.1 Sol
+作者：Cyberangel、Codex GPT-6.1 Sol
 
 ## Star History
 
